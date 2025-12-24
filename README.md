@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website showcasing my journey as an aspiring Data Analyst. This website features a clean, professional design with smooth scrolling and interactive elements.
 
-## 🌟 Features
+## Features
 
 - **Responsive Design**: Fully responsive layout that works seamlessly on desktop, tablet, and mobile devices
 - **Modern UI/UX**: Clean and professional interface with smooth animations
@@ -11,11 +11,11 @@ A modern, responsive portfolio website showcasing my journey as an aspiring Data
 - **Fast Loading**: Optimized assets for quick page load times
 - **Cross-browser Compatible**: Works on all modern browsers
 
-## 🚀 Live Demo
+## Live Demo
 
 Visit the live website: [Nusrat Begum's Portfolio](https://nusratbegum.github.io/portfolio-website/)
 
-## 💻 Technology Stack
+## Technology Stack
 
 - **HTML5**: Semantic markup for better structure and SEO
 - **CSS3**: Modern styling with custom properties (CSS variables)
@@ -24,7 +24,7 @@ Visit the live website: [Nusrat Begum's Portfolio](https://nusratbegum.github.io
 - **jQuery**: DOM manipulation and event handling
 - **Magnific Popup**: Lightbox gallery for project images
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 portfolio-website/
@@ -50,7 +50,7 @@ portfolio-website/
 └── README.md
 ```
 
-## 🛠️ Setup and Installation
+## Setup and Installation
 
 ### Prerequisites
 
@@ -91,7 +91,7 @@ portfolio-website/
    - Install the "Live Server" extension
    - Right-click on `index.html` and select "Open with Live Server"
 
-## 📝 Customization Guide
+## Customization Guide
 
 ### Updating Personal Information
 
@@ -115,7 +115,7 @@ portfolio-website/
    }
    ```
 
-## 🌐 Deployment
+## Deployment
 
 ### GitHub Pages
 
@@ -132,7 +132,7 @@ portfolio-website/
 - **Firebase Hosting**: Use Firebase CLI to deploy
 - **Traditional Hosting**: Upload files via FTP to your web server
 
-## 📄 Sections
+## Sections
 
 The portfolio website includes the following sections:
 
@@ -142,7 +142,7 @@ The portfolio website includes the following sections:
 4. **Projects**: Portfolio of work and achievements (commented out, can be enabled)
 5. **Contact**: Contact form and information (commented out, can be enabled)
 
-## 🤝 Contributing
+## Contributing
 
 This is a personal portfolio website, but suggestions and feedback are welcome!
 
@@ -152,7 +152,7 @@ This is a personal portfolio website, but suggestions and feedback are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📧 Contact
+## Contact
 
 **Nusrat Begum**
 - Website: [Portfolio Website](https://nusratbegum.github.io/portfolio-website/)
@@ -160,26 +160,26 @@ This is a personal portfolio website, but suggestions and feedback are welcome!
 
 For professional inquiries, please visit the website's contact section.
 
-## 📜 License
+## License
 
 This project is open source and available for personal and educational use.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Template: [TemplateMo 578 First Portfolio](https://templatemo.com/tm-578-first-portfolio)
 - Icons: Bootstrap Icons
 - Fonts: Google Fonts (DM Sans)
 - Images: Personal photos and Unsplash
 
-## 📊 Current Status
+## Current Status
 
-- ✅ Basic structure complete
-- ✅ Responsive design implemented
-- ✅ About section active
-- 🚧 Services section (available, currently commented)
-- 🚧 Projects section (available, currently commented)
-- 🚧 Contact form (available, currently commented)
-- 🔄 Regular updates planned
+- Basic structure complete
+- Responsive design implemented
+- About section active
+- Services section (available, currently commented)
+- Projects section (available, currently commented)
+- Contact form (available, currently commented)
+- Regular updates planned
 
 ---
 
