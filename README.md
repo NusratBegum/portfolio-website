@@ -155,8 +155,10 @@ This is a personal portfolio website, but suggestions and feedback are welcome!
 ## 📧 Contact
 
 **Nusrat Begum**
-- Phone: +8801830363641
+- Website: [Portfolio Website](https://nusratbegum.github.io/portfolio-website/)
 - GitHub: [@NusratBegum](https://github.com/NusratBegum)
+
+For professional inquiries, please visit the website's contact section.
 
 ## 📜 License
 
